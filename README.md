@@ -29,7 +29,7 @@ desafio-ia-prompt/
 │   ├── api_client.py              # Integração com a API do Google Gemini
 │   └── cache.py                   # Lógica de validação de cache MD5
 ├── samples/                       # Exemplos de outputs JSON gerados para avaliação
-├── .env.example                   # Template de variáveis de ambiente
+├── .env                           # Chaves de API locais
 ├── .gitignore                     # Arquivos ignorados pelo versionamento
 ├── main.py                        # Ponto de entrada e interface CLI
 ├── PROMPT_ENGINEERING_NOTES.md    # Documentação das estratégias de IA utilizadas
